@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179097414383",
+    "project_id": "saveadriver",
+    "storage_bucket": "saveadriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179097414383:android:6652038fbeed3fab0e491a",
+        "android_client_info": {
+          "package_name": "com.example.saveadriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179097414383-ad38lktfvmhreaer3or1jlijuksptuej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WO4E_F8snvLPPmMVf11f2ck7d-Np_sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179097414383-ad38lktfvmhreaer3or1jlijuksptuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
